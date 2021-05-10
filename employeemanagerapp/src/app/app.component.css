@@ -1,0 +1,23 @@
+.add-programming-button{
+    border: 1px solid darkcyan;
+    padding: 1px 2px;
+    border-radius: 6px;
+}
+.add-programming-button:hover{
+    background-color: darkcyan;
+    
+}
+.add-programming-button:hover a{
+    color: white !important;
+}
+.user-card-element{
+    background-color: rgb(67, 70, 70);
+}
+.card-header-element{
+    font-size: 40px;
+    color: teal;
+}
+.card-paragraf-element{
+    font-size: 20px;
+    color: white;
+}
